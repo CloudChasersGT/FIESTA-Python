@@ -1,0 +1,1 @@
+An example of the initial version developed in the MDP study: Arias Agudelo, D., Bulsing, F., Schrijver, J., Luger, M., & Cahill, L. (2023). Cloud Forest Hydrology in a Changing Context: An Approach to understanding the impact of CLimate Change and Deforestation on the Water Balance of the Sierra Yalijux, Alta Verapaz, Guatemala.
